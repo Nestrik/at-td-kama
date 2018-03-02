@@ -1,2 +1,3 @@
 vendor/*
-nbprojects/*
+nbproject/*
+/nbproject/private/
