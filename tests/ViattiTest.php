@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__.'/bootstrap.php';
 
-class ViattiTests extends BaseTest {
+class ViattiTest extends BaseExample {
   private $baseUrl = 'https://www.viatti.ru/';
   
   function testMainPage() {

@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-class BaseTest extends TestCase {
+class BaseExample extends TestCase {
   protected $driver;
   
   public function setUp() {

@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__.'/bootstrap.php';
 
-class KamaTdTests extends BaseTest {
+class KamaTdTest extends BaseExample {
   private $baseUrl = 'https://www.td-kama.com/';
   
   function testWinterTiresPage() {
